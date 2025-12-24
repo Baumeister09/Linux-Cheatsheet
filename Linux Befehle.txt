@@ -1,11 +1,20 @@
 echo = gibt den in "" Text in der nächsten Zeile wieder
 
+
 whoami = zeigt an welcher User angemeldet ist
+
 
 ls /Ordner = zeigt alle Datein in einem bestimmten Ordner welcher mit /Ordner-Name vorgegeben wird
 ls -a = zeigt alle Datein inklusive versteckte Datein im aktuellen Ordner
+
 
 cd = öffnet Ordner
 cd .. = geht eins zurück
 cd ~ = geht zum Anfang
 cd - = zum letzten Ordner
+
+
+cat = öffnet Datein
+cat > Datei = erstellt eine neue Datei
+cat Datei1 > Datei2 = fügt 2 Datein zusammen
+cat Datei1 >> Datei2 = hängt eine Datei an die andere
