@@ -1,0 +1,2 @@
+echo = gibt den in "" Text in der nächsten Zeile wieder
+whoami = zeigt an welcher User angemeldet ist
