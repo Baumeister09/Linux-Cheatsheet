@@ -1,2 +1,11 @@
 echo = gibt den in "" Text in der nächsten Zeile wieder
+
 whoami = zeigt an welcher User angemeldet ist
+
+ls /Ordner = zeigt alle Datein in einem bestimmten Ordner welcher mit /Ordner-Name vorgegeben wird
+ls -a = zeigt alle Datein inklusive versteckte Datein im aktuellen Ordner
+
+cd = öffnet Ordner
+cd .. = geht eins zurück
+cd ~ = geht zum Anfang
+cd - = zum letzten Ordner
