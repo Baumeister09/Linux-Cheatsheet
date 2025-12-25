@@ -18,3 +18,6 @@ cat = öffnet Datein
 cat > Datei = erstellt eine neue Datei
 cat Datei1 > Datei2 = fügt 2 Datein zusammen
 cat Datei1 >> Datei2 = hängt eine Datei an die andere
+
+
+pwd = zeigt wo man sich gerade befindet
